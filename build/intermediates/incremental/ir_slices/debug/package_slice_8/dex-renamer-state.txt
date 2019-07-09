@@ -1,0 +1,4 @@
+#Tue Jul 09 10:01:16 CST 2019
+base.0=E\:\\start\\ppppp\\1702AMVPProject\\day3\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
